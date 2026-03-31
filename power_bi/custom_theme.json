@@ -1,0 +1,38 @@
+{
+    "name": "Sparkasse Digital Transformation Theme",
+    "dataColors": [
+        "#FF0000",
+        "#000000",
+        "#8E8E8E",
+        "#D1D1D1",
+        "#F5F5F5",
+        "#FFFFFF",
+        "#B71C1C",
+        "#212121"
+    ],
+    "background": "#FFFFFF",
+    "foreground": "#000000",
+    "tableAccent": "#FF0000",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "*": [
+                    {
+                        "fontSize": 11,
+                        "fontFamily": "Segoe UI Semibold"
+                    }
+                ],
+                "title": [
+                    {
+                        "show": true,
+                        "fontColor": { "solid": { "color": "#000000" } },
+                        "background": { "solid": { "color": "#FFFFFF" } },
+                        "alignment": "Left",
+                        "fontSize": 14,
+                        "fontFamily": "Segoe UI Bold"
+                    }
+                ]
+            }
+        }
+    }
+}
