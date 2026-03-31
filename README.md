@@ -1,5 +1,9 @@
 # German Fintech Market Audit & Digitalization
 
+<p align="center">
+   <img src="docs/fintech_audit.gif" alt="Fintech Audit Demo" />
+</p>
+
 ## Executive Summary: The "Burning Platform" for German Retail Banking
 The German retail banking sector, particularly the **Sparkassen-Finanzgruppe**, faces an unprecedented "burning platform." As digital-native neo-banks (N26, Revolut, Solaris) erode market share and the European Central Bank (ECB) maintains volatile interest rate environments, the traditional branch-heavy model is becoming unsustainable. This project provides a **Digital Business Model Audit** of the German market, quantifying the decline in physical branch relevance against the surge in digital adoption.
 
